@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.terminal-report-section {
+    text-align: center;
+}
+
+.terminal-report-section table{
+    width: 100%;
+}
+
+.terminal-report-section table tr td{
+    min-width: 20px;
+padding: 5px;}
+
+.header-seciton .academy-header-section {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 34%;
+}
+
+.academy-header-section .academy-logo img {
+    width: 100px;
+}
+
+.section-informaion ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.section-informaion ul li {
+    list-style: none;
+}
+
+.terminal-report-section .exam-title h3 {
+    margin: 0;
+    background: #32317d3b;
+    display: inline-block;
+    padding: 5px 20px;
+}
+
+.terminal-report-section .exam-title {
+    margin: 20px 0;
+}
